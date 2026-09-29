@@ -11,7 +11,7 @@ git init
 git add .
 git commit -m "Publish KDTF"
 git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/kdtf.git
+git remote add origin https://github.com/fbrcmachado/kdtf.git
 git push -u origin main
 ```
 
@@ -34,7 +34,7 @@ O `SETUP.md` descreve os caminhos para Codex, Claude Code, GitHub Copilot, Curso
 Em um projeto Git, a instalação reproduzível pode usar um submódulo:
 
 ```bash
-git submodule add https://github.com/SEU_USUARIO/kdtf.git .agents/skills/kdtf
+git submodule add https://github.com/fbrcmachado/kdtf.git .agents/skills/kdtf
 git submodule update --init .agents/skills/kdtf
 ```
 
