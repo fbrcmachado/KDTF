@@ -1,0 +1,14 @@
+interface:
+  display_name: KDTF
+  short_description: Engenharia de dados com execução e evidência
+  default_prompt: Use $kdtf para analisar e implementar esta solução de dados com
+    validação e evidências por fase.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

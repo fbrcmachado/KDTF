@@ -1,0 +1,1 @@
+Ao ativar KDTF, leia `AGENTS.md`, `.agents/skills/kdtf/SKILL.md` e `.agents/skills/kdtf/manifest.json` na raiz do projeto. Siga a skill canônica e monte a abertura com os dados do manifesto instalado.

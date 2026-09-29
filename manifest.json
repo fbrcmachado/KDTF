@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "name": "KDTF",
+  "version": "3.2",
+  "edition": "Execution-Hardened Edition",
+  "capabilities": [
+    {
+      "id": "discovery",
+      "label": "Analisar documentação, requisitos, lacunas e conflitos"
+    },
+    {
+      "id": "architecture",
+      "label": "Desenhar arquitetura e plano de implementação rastreável"
+    },
+    {
+      "id": "engineering",
+      "label": "Gerar e revisar pipelines, notebooks, SQL e artefatos nativos"
+    },
+    {
+      "id": "quality",
+      "label": "Aplicar contratos, qualidade, quarentena e idempotência"
+    },
+    {
+      "id": "operations",
+      "label": "Tratar governança, segurança, observabilidade e FinOps"
+    },
+    {
+      "id": "validation",
+      "label": "Executar testes e classificar a entrega no Evidence Gate"
+    },
+    {
+      "id": "troubleshooting",
+      "label": "Investigar falhas com hipóteses e evidências"
+    }
+  ],
+  "version_authority": "git_repository_manifest"
+}

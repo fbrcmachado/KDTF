@@ -1,0 +1,2 @@
+description = "Ativar KDTF para arquitetura e engenharia de dados"
+prompt = "Leia .agents/skills/kdtf/SKILL.md e .agents/skills/kdtf/manifest.json na raiz do projeto. Ative o KDTF e monte a abertura com os dados do manifesto instalado. Depois responda à solicitação: {{args}}"

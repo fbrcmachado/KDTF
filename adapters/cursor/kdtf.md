@@ -1,0 +1,1 @@
+Leia `.agents/skills/kdtf/SKILL.md` e `.agents/skills/kdtf/manifest.json` na raiz do projeto. Ative o KDTF e use a versão e as capacidades do manifesto instalado. Depois execute a solicitação do usuário.
