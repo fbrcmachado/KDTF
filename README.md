@@ -22,7 +22,7 @@ Se o repositório remoto já existir, use o fluxo Git correspondente e preserve 
 Depois de publicar, abra o projeto consumidor no agente e peça:
 
 ```text
-Leia https://raw.githubusercontent.com/SEU_USUARIO/kdtf/main/SETUP.md
+Leia https://raw.githubusercontent.com/fbrcmachado/kdtf/main/SETUP.md
 Instale o KDTF neste projeto a partir de https://github.com/SEU_USUARIO/kdtf.git.
 Preserve meus arquivos existentes e mostre o diff antes de concluir.
 ```
